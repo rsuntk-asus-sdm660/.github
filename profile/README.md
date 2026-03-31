@@ -1,5 +1,10 @@
 # X01BD Manifest
 
+> [!CAUTION]
+> Using other kernel tree can cause camera and flash to failing, due to new proprietary hals.
+> 
+> **build[bot] or developer is advised to use SonicBSV's kernel tree or kernel tree in this main README.md**
+
 ### Manifests
 - [Local Manifests](https://github.com/rsuntk-asus-sdm660/local_manifests) - Local manifest for syncing
 - [Device Tree](https://github.com/rsuntk-asus-sdm660/android_device_asus_X01BD) - X01BD properties
